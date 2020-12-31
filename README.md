@@ -11,20 +11,7 @@
 - [GitHub](https://github.com/hamed-abd)
 --------------------------
 
-## سياهه ارزشيابي درس
-
- <summary>فعاليت هي مشترک همه دانشجويان</summary>
-    
-1. **فعاليت هي مشترک همه دانشجويان**
-    1. [ساخت اکانت گيت هاب](https://github.com/hamed-abd)
-    2. [آموزش گيت در سيت پچ ورک](http://jlord.us/patchwork/)
-    3. [ارائه رزومه](https://hamed-abd.github.io/Resume/)
-    4. [ارائه انگيزه نامه](https://hamed-abd.github.io/SOP/)
-    5. يجاد ريپازيتوري PNU_3991_AR
-    6. [گذراندن دوره js از سيت سولولرن](http://Sololearn.com)
-    7. مشارکت در گروهي درسي
-
-## برنامه کار&#1740; هفته
+## برنامه کاری هفته
 <div align="right">
 
 <<table style="width:1073px" dir="ltr">
