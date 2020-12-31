@@ -14,7 +14,7 @@
 ## برنامه کاری هفته
 <div align="right">
 
-<<table style="width:1073px" dir="ltr">
+<table style="width:1073px" dir="ltr">
   <tr>
     <th width="125" >16-18</th>
     <th width="125" >14-16</th>
