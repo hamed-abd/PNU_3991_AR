@@ -53,10 +53,9 @@
     <th width="126">يک شنبه</th>
   </tr>
    <tr>
+     <th width="125" ></th>
+     <th width="125" > <a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC">روش پژوهش و ارائه01-1322010</a></th>
      <th width="125" >
-	 <a href="https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods#TOC">روش پژوهش و ارائه01-1322010</a></th>
-     <th width="125" ></th>
-     <th width="125" ></th>
      <th width="125" ></th>
      <th width="126" ></th>
     <th width="126">دوشنبه</th>
