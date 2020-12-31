@@ -1,4 +1,4 @@
-# Winter Semester Courses 1399/2020 (PNU_3991)
+# PNU_3991_AR
 <div dir="rtl">
    
 <a name="TOC"></a>
