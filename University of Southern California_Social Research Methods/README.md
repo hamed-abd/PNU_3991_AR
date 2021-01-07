@@ -1,15 +1,12 @@
 <div dir="rtl">
   
-# Research-And-Presentation-Methods
+# University of Southern California
 
----
-<br>
+## Social Research Methods
 
-# معرفی دروس مشابه در دانشگاههای دیگر
-- [دانشگاه PEPPERDINE در کالیفرنیا](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
-- [دانشگاه NWECASTEL در استرالیا](https://libguides.newcastle.edu.au/researchmethods)
-- [دانشگاه POLSE ONE در سانفرانسیسکو](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212770)
-- [ دانشگاه SOUTHAMPTON](https://library.soton.ac.uk/sash/research-methods)
+
+- [معرفی سرفصل های درس](Social Research Methods_Syllabus.pdf)
+- [معرفی درس و منایع درسی](University of Southern California_Social Research Methods.pdf)
 
 Introduction to research methods, including research paradigms and methodologies across computer science, research question formulation, design of research approach, literature search and presentation of related work, analysis of results, verbal and written presentation skills, and research ethics. Students prepare and defend a thesis proposal or project proposal in an area of their choice. Class meets three hours per week, a total of 45 hours per semester.
 
