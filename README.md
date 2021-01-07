@@ -4,7 +4,7 @@
 <a name="TOC"></a>
 
 # حامد عبدالرزاق
-- [PNU_3991_AR](https://github.com/hamed-abd/PNU_3991_AR)
+- [PNU_3991_AR](https://github.com/hamed-abd/PNU_3991_AR#TOC)
 - [Resume](https://hamed-abd.github.io/Resume) 
 - [SOP](https://hamed-abd.github.io/SOP)
 - [Certificates](https://hamed-abd.github.io/Certificates)
@@ -13,6 +13,46 @@
 - [Articles and Translations](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations)
 
 ## ارزیابی ها
+
+### فعالیتها
+----------
+<a name="RelatedCourses"></a>
+<details>
+    <summary>معرفی یک درس مشابه در دانشگاههای دیگر</summary>
+
+>- [Social Research Methods - University of Southern California](https://github.com/hamed-abd/PNU_3991_AR/tree/main/University-of-Southern-California_Social Research-Methods)
+
+[<kbd>↩</kbd>](#TOC)
+</details>
+----------
+<a name="RelatedRef"></a>
+<details>
+    <summary>پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار</summary>
+
+>- [مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول](https://oatd.org/oatd/record?record=%22handle%5C%3A10919%2F92198%22&q=computer%20science)
+>- [مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول](https://vtechworks.lib.vt.edu/handle/10919/92198)
+
+[<kbd>↩</kbd>](#TOC)
+</details>
+----------
+<a name="Latex"></a>
+<details>
+    <summary>ارائه کتبی با لاتک از منابع دیگر به زبان اصلی</summary>
+
+>- [Research And Presentation Methods](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
+
+[<kbd>↩</kbd>](#TOC)
+</details>
+----------
+<a name="Presentation"></a>
+<details>
+    <summary>ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر</summary>
+
+>- [Presentation](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
+
+[<kbd>↩</kbd>](#TOC)
+</details>
+----------
 
 ### بخش عمومی
 - <a href="">ارزیابی رزومه و انگیزه نامه</a>
