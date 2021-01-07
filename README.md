@@ -15,26 +15,26 @@
 ## ارزیابی ها
 
 ### فعالیتها
-----------
+
 <a name="RelatedCourses"></a>
 <details>
     <summary>معرفی یک درس مشابه در دانشگاههای دیگر</summary>
 
->- [Social Research Methods - University of Southern California](https://github.com/hamed-abd/PNU_3991_AR/tree/main/University-of-Southern-California_Social Research-Methods)
+>- <a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/University-of-Southern-California_Social Research-Methods">Social Research Methods - University of Southern California</a>
 
 [<kbd>↩</kbd>](#TOC)
 </details>
-----------
+
 <a name="RelatedRef"></a>
 <details>
     <summary>پایان نامه ارشد یا دکترا در رشته مهندسی نرم افزار</summary>
 
->- [مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول](https://oatd.org/oatd/record?record=%22handle%5C%3A10919%2F92198%22&q=computer%20science)
->- [مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول](https://vtechworks.lib.vt.edu/handle/10919/92198)
+>- <a href="https://oatd.org/oatd/record?record=%22handle%5C%3A10919%2F92198%22&q=computer%20science">مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول - لینک اول</a>
+>- <a href="https://vtechworks.lib.vt.edu/handle/10919/92198">مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول - لینک دوم</a>
 
 [<kbd>↩</kbd>](#TOC)
 </details>
-----------
+
 <a name="Latex"></a>
 <details>
     <summary>ارائه کتبی با لاتک از منابع دیگر به زبان اصلی</summary>
@@ -43,7 +43,7 @@
 
 [<kbd>↩</kbd>](#TOC)
 </details>
-----------
+
 <a name="Presentation"></a>
 <details>
     <summary>ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر</summary>
