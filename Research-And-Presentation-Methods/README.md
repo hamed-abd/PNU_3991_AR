@@ -2,7 +2,7 @@
 
 # روش پژوهش و ارائه
 
-## تکالیف درسی
+## تکالیف درسی(#L)
 
 ### صفحه 127
 - <a href="127.pdf">PDF</a>
@@ -16,7 +16,9 @@
 - <a href="129.pdf">PDF</a>
 - <a href="129.tex">لایتک</a>
 
-### خلاصه مطالب
+### خلاصه مطالب(#P)
 - <a href="Summery.pdf">PDF</a>
 - <a href="Summery.tex">لایتک</a>
 
+### ارائه
+- <a href="">View on Aparat</a>

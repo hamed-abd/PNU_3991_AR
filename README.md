@@ -37,7 +37,7 @@
 <details>
     <summary>ارائه کتبی با لاتک از منابع دیگر به زبان اصلی</summary>
 
->- [Research And Presentation Methods](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
+>- [Research And Presentation Methods](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods#L)
 
 </details>
 
@@ -45,7 +45,7 @@
 <details>
     <summary>ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر</summary>
 
->- [Presentation](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
+>- [Presentation](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods#P)
 
 </details>
 
