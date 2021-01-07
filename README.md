@@ -10,7 +10,7 @@
 - [Certificates](https://hamed-abd.github.io/Certificates)
 - [GitHub Profile](https://github.com/hamed-abd)
 - [jlord/patchwork](https://github.com/hamed-abd/patchwork)
-- [Articles and Translations](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles%20and%20Translations)
+- [Articles and Translations](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 
 ## ارزیابی ها
 
