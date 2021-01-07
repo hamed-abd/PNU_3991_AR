@@ -1,28 +1,16 @@
-<div dir="rtl">
-  
-# Research-And-Presentation-Methods
+<div dir="tl">
 
----
-<br>
+# مقالات و ترجمه ها
 
-# معرفی دروس مشابه در دانشگاههای دیگر
-- [دانشگاه PEPPERDINE در کالیفرنیا](https://seaver.pepperdine.edu/academics/ge/faculty/researchskills.htm)
-- [دانشگاه NWECASTEL در استرالیا](https://libguides.newcastle.edu.au/researchmethods)
-- [دانشگاه POLSE ONE در سانفرانسیسکو](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0212770)
-- [ دانشگاه SOUTHAMPTON](https://library.soton.ac.uk/sash/research-methods)
+## 
 
-# جستجوی منابع دیگر
-- [پایان نامه ارشد دانشگاه دانشگاه استکهلم با موضوع : Social Networks and Mobility Intenetions of Refugees in Hofors ](https://methods.sagepub.com/methods-map)
+### راه حل هاي آسيب پذيري و تهديدات در شبکه تعريف شده نرم افزاري
 
-# ارائه کتبی با لاتک از منابع دیگر به زبان اصلی
-- [127.pdf](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/127.pdf)
-- [127.tex](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/127.tex)
-- [128.pdf](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/128.pdf)
-- [128.tex](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/128.tex)
-- [129.pdf](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/129.pdf)
-- [129.tex](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/129.tex)
+- <a href="SDN-En.pdf">اصل مقاله به انگلیسی</a>
+- <a href="SDN-Fa.pdf">ترجمه فارسی</a>
 
-# ارائه شفاهی با حداکثر 3 اسلاید لاتک(بیمر) از منابع دیگر
-- [ارائه شفاهی با بیمر](https://aparat.com/v/pJcbO)
-- [beamer.pdf](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.pdf)
-- [beamer.tex](https://github.com/hamed-abd/PNU_3991_AR/blob/main/Research-And-Presentation-Methods/beamer.tex)
+- چکیده مقاله
+در جهان در حال پيشرفت امروز، اندازه و الزامات شبکه ها افزايش مي يابد که مي تواند سنگين باشد زيرا حرکت با سوئيچ ها کاملاً بي نظم است. SDN   به برنامه ريزي و اجراي مستقل سوئيچ ها کمک مي کند. SDN   روشي براي ايجاد قابليت برنامه ريزي براي توسعه برنامه هاي شبکه با جدا کردن سطح کنترل از سطح داده است. امنيت شبکه تعريف شده نرم افزاري (SDN) يک موضوع آزاد است. جدا کردن سطح کنترل از سطح داده ، تعدادي از چالش هاي امنيتي مانند حمله مرد در وسط (MITM) ، انکار سرويس (DoS) ، حملات اشباع بيش از حد و غيره را باز مي کند. در اين مقاله ، ما به بررسي اجمالي شبکه تعريف شده نرم افزاري (SDN) ، چالش ها ، مشکلات و راه حل هاي آنها پرداخته ايم. ابتدا ، ما در مورد معماري   SDN ، به دنبال آن توضيحات تهديدات و در آخر ، پيشنهاد برخي راه حل ها براي تعبيه کردن امنيت بحث کرديم. 
+
+- کلمات کليدي
+شبکه تعريف شده نرم افزاري (SDN)، DDoS ، خراب کردن بسته ، حقه  ARP، نيروي وحشيانه ، بهره برداري از  API
