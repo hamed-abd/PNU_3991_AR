@@ -1,12 +1,12 @@
-<div dir="rtl">
+<div dir="ltr">
   
 # University of Southern California
 
 ## Social Research Methods
 
+- <a href="Social Research Methods_Syllabus.pdf">معرفی سرفصل های درس</a>
+- <a href="University of Southern California_Social Research Methods.pdf">معرفی درس و منایع درسی</a>
 
-- [معرفی سرفصل های درس](Social Research Methods_Syllabus.pdf)
-- [معرفی درس و منایع درسی](University of Southern California_Social Research Methods.pdf)
 
 Introduction to research methods, including research paradigms and methodologies across computer science, research question formulation, design of research approach, literature search and presentation of related work, analysis of results, verbal and written presentation skills, and research ethics. Students prepare and defend a thesis proposal or project proposal in an area of their choice. Class meets three hours per week, a total of 45 hours per semester.
 
