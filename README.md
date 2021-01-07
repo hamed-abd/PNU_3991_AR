@@ -5,18 +5,28 @@
 
 # حامد عبدالرزاق
 - [PNU_3991_AR](https://github.com/hamed-abd/PNU_3991_AR)
-- [Resume](https://hamed-abd.github.io/Resume/) 
-- [SOP](https://hamed-abd.github.io/SOP/)
-- [Certificates](https://hamed-abd.github.io/Certificates/)
-- [GitHub](https://github.com/hamed-abd)
+- [Resume](https://hamed-abd.github.io/Resume) 
+- [SOP](https://hamed-abd.github.io/SOP)
+- [Certificates](https://hamed-abd.github.io/Certificates)
+- [GitHub Profile](https://github.com/hamed-abd)
 - [jlord/patchwork](https://github.com/hamed-abd/patchwork)
+- [Articles and Translations](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles%20and%20translations)
 
-# winter Semester Courses<br>1399/2020
+## ارزیابی ها
 
-## دروس کارشناسی
+### بخش عمومی
+- <a href="">ارزیابی رزومه و انگیزه نامه</a>
+- <a href="">خلاصه ارزیابی بخش عومی</a>
+
+### بخش دروس کارشناسی
+- <a href="">خلاصه ارزیابی درس_روش پژوهش و ارائه</a>
+
+## winter Semester Courses<br>1399/2020
+
+### دروس کارشناسی
 - [روش پژوهش و ارائه01-1322010](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods/1322010_01/43_%D8%AD%D8%A7%D9%85%D8%AF%20%D8%B9%D8%A8%D8%AF%D8%A7%D9%84%D8%B1%D8%B2%D8%A7%D9%82)
 
-## برنامه کاری هفته
+### برنامه کاری هفته
 <div align="right">
 
 <table style="width:1073px" dir="ltr">
