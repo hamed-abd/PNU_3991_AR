@@ -22,7 +22,6 @@
 
 >- <a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/University-of-Southern-California_Social Research-Methods">Social Research Methods - University of Southern California</a>
 
-[<kbd>↩</kbd>](#TOC)
 </details>
 
 <a name="RelatedRef"></a>
@@ -32,7 +31,6 @@
 >- <a href="https://oatd.org/oatd/record?record=%22handle%5C%3A10919%2F92198%22&q=computer%20science">مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول - لینک اول</a>
 >- <a href="https://vtechworks.lib.vt.edu/handle/10919/92198">مسیرهای محاسباتی: مسیرهای ورود به علوم کامپیوتر و تجربه برنامه نویسی در سال اول - لینک دوم</a>
 
-[<kbd>↩</kbd>](#TOC)
 </details>
 
 <a name="Latex"></a>
@@ -41,7 +39,6 @@
 
 >- [Research And Presentation Methods](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 
-[<kbd>↩</kbd>](#TOC)
 </details>
 
 <a name="Presentation"></a>
@@ -50,7 +47,6 @@
 
 >- [Presentation](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Research-And-Presentation-Methods)
 
-[<kbd>↩</kbd>](#TOC)
 </details>
 
 ### بخش عمومی
@@ -118,6 +114,6 @@
     <th width="126">چهارشنبه</th>
   </tr>
    </table>
-
+[<kbd>↩</kbd>](#TOC)
 </div>
 </div>
