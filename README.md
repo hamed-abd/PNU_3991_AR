@@ -50,13 +50,13 @@
 </details>
 
 ### بخش عمومی
-#### PDF
-- <a href="XX_CV_CheckList_AR_3991.pdf">ارزیابی رزومه و انگیزه نامه</a>
-- <a href="XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عومی</a>
+   #### PDF
+      - <a href="XX_CV_CheckList_AR_3991.pdf">ارزیابی رزومه و انگیزه نامه</a>
+      - <a href="XX_GeneralSection_CheckList_AR_3991.pdf">خلاصه ارزیابی بخش عومی</a>
 
-#### PDF
-- <a href="XX_CV_CheckList_AR_3991.docx">ارزیابی رزومه و انگیزه نامه</a>
-- <a href="XX_GeneralSection_CheckList_AR_3991.docx">خلاصه ارزیابی بخش عومی</a>
+   #### DOC
+      - <a href="XX_CV_CheckList_AR_3991.docx">ارزیابی رزومه و انگیزه نامه</a>
+      - <a href="XX_GeneralSection_CheckList_AR_3991.docx">خلاصه ارزیابی بخش عومی</a>
 
 
 ### بخش دروس کارشناسی
