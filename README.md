@@ -58,10 +58,6 @@
    - <a href="XX_CV_CheckList_AR_3991.docx">ارزیابی رزومه و انگیزه نامه</a>
    - <a href="XX_GeneralSection_CheckList_AR_3991.docx">خلاصه ارزیابی بخش عومی</a>
 
-
-### بخش دروس کارشناسی
-- <a href="">خلاصه ارزیابی درس_روش پژوهش و ارائه</a>
-
 ## winter Semester Courses<br>1399/2020
 
 ### دروس کارشناسی
